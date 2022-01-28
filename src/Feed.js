@@ -23,7 +23,7 @@ function Feed() {
             </div>
 
             {/* TweetBox */}
-            <TweetBox />
+            {/* <TweetBox /> */}
 
             <FlipMove>
                 {/* Post */}
