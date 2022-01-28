@@ -1,2 +1,2 @@
-# Twitter-Clone
+# Idea display for Hustle web application
  
